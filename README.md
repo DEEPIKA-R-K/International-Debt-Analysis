@@ -1,7 +1,7 @@
 [README.TXT.md](https://github.com/user-attachments/files/28678068/README.TXT.md)
 # 🌍 International Debt Analysis
 
-A complete end-to-end data analytics project using the **World Bank International Debt Statistics (IDS)** dataset — covering data cleaning, MySQL database integration, SQL analysis, and Power BI visualization.
+A complete end-to-end data analytics project using the **International Debt Statistics (IDS)** dataset — covering data cleaning, EDA, MySQL database integration, SQL analysis, and Power BI visualization.
 
 ---
 
